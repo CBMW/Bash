@@ -1,4 +1,4 @@
-# Bash
+# Bash Scripting
 Bash scripting tools and automation  
 
 ## SysUpdate.sh   
