@@ -15,7 +15,7 @@ NEEDS TESTING
 Removed for further testing
 
 ## KU.sh   
-  -First time Kali Setup 
-  -UAC
-  -Update and upgrade
-  -Extensive wordlist download
+  -First time Kali Setup   
+  -UAC  
+  -Update and upgrade  
+  -Extensive wordlist download  
