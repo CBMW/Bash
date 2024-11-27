@@ -1,6 +1,13 @@
 # Bash Scripting
 Bash scripting tools and automation  
 
+## KU.sh   
+  -First time Kali Setup   
+  -UAC  
+  -Update and upgrade  
+  -Extensive wordlist download  
+  -Fail2Ban install  
+  
 ## SysUpdate.sh   
   -Check and apply updates on unix/deb distros  
   -Cleans system with apt autoremove and apt clean after updating  
@@ -19,10 +26,3 @@ Bash scripting tools and automation
   -Set location to save capture file  
 NEEDS TESTING
 Removed for further testing
-
-## KU.sh   
-  -First time Kali Setup   
-  -UAC  
-  -Update and upgrade  
-  -Extensive wordlist download  
-  -Fail2Ban install
