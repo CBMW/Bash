@@ -6,7 +6,7 @@ Bash scripting tools and automation
   -Cleans system with apt autoremove and apt clean after updating  
   -Cool terminal loading bar >.>  
   
-## SGW.sh   
+## GWP.sh   
   -Set .gif as wallpaper on linux {works on deb,ubuntu,linuxmint,parrot}  
   -Installs xwinwrap mpv  
   -Prompts user for path to .gif  
