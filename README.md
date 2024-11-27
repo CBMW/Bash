@@ -13,3 +13,9 @@ Bash scripting tools and automation
   -Set location to save capture file  
 NEEDS TESTING
 Removed for further testing
+
+## KU.sh   
+  -First time Kali Setup 
+  -UAC
+  -Update and upgrade
+  -Extensive wordlist download
