@@ -19,3 +19,4 @@ Removed for further testing
   -UAC  
   -Update and upgrade  
   -Extensive wordlist download  
+  -Fail2Ban install
